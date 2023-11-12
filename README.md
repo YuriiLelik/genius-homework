@@ -1,1 +1,1 @@
-[Homework 1](https://yuriilelik.github.io/genius-homework/Genius-test/)
+[Genius-test](https://yuriilelik.github.io/genius-homework/Genius-test/)
